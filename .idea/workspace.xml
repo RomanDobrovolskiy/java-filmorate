@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="31809443-620c-4130-9053-0e6652d4750e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="6869088e-5b0f-413c-b886-b51cf3161684" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/yandex/practicum/filmorate/controller/FilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/yandex/practicum/filmorate/controller/FilmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/yandex/practicum/filmorate/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/yandex/practicum/filmorate/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/yandex/practicum/filmorate/service/FilmService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/yandex/practicum/filmorate/service/FilmService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/yandex/practicum/filmorate/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/yandex/practicum/filmorate/service/UserService.java" afterDir="false" />
+>>>>>>> 22a67bd (first commit)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +21,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> 22a67bd (first commit)
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -37,12 +49,17 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2BIhxywU4II6mqbV6Zdeemddk0A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectId" id="2BI4GuqW7feVCcrjdyvG6o1Dxe0" />
+>>>>>>> 22a67bd (first commit)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -55,6 +72,26 @@
   <component name="RunManager">
     <configuration name="FilmorateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="java-filmorate-add-database" />
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Админ/Desktop/YandexPracticum/java-filmorate-develop",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "0ae6ea87b46fecbec34cad55c549afe5"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FilmorateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="filmorate" />
+>>>>>>> 22a67bd (first commit)
       <option name="SPRING_BOOT_MAIN_CLASS" value="ru.yandex.practicum.filmorate.FilmorateApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +101,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="31809443-620c-4130-9053-0e6652d4750e" name="Changes" comment="" />
       <created>1656599762427</created>
       <option name="number" value="Default" />
@@ -72,6 +110,15 @@
       <workItem from="1656599762430" duration="776000" />
       <workItem from="1656603805374" duration="672000" />
       <workItem from="1656604639685" duration="594000" />
+=======
+      <changelist id="6869088e-5b0f-413c-b886-b51cf3161684" name="Changes" comment="" />
+      <created>1656580174311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656580174311</updated>
+      <workItem from="1656580177762" duration="202000" />
+      <workItem from="1656580704274" duration="1078000" />
+>>>>>>> 22a67bd (first commit)
     </task>
     <servers />
   </component>
