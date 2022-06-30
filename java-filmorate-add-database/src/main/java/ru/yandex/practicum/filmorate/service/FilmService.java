@@ -33,7 +33,7 @@ public class FilmService {
     }
 
     public Film getFilm(long filmId) {
-        Film film = filmStorage.getFilm(filmId).orElseThrow(() -> new NotFoundException("такого фильма нет в списке"));
+        Film film = filmStorage.getFilm(filmId).orElseThrow(() -> new NotFoundException("Данного фильма нет в списке"));
         if (!filmGenreService.getFilmGenres(film.getId()).isEmpty()) {
             film.setGenres(filmGenreService.getFilmGenres(film.getId()));
         }
