@@ -10,8 +10,10 @@ public interface UserStorage {
     //создаёт пользователя
     void createUser(User user);
 
+
     //возвращает пользователя по идентификатору
     Optional<User> findUserById(long userId);
+
 
     //обновляет пользователя
     void updateUser(User user);

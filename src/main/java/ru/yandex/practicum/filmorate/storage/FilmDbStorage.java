@@ -28,7 +28,6 @@ public class FilmDbStorage implements FilmStorage {
         this.mpaService = mpaService;
         this.jdbcTemplate = jdbcTemplate;
     }
-
     @Override
     public void createFilm(Film film) {
         String sql = "insert into films(film_name, film_release_date, film_description, film_duration, mpa_id) " +
