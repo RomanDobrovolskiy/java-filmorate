@@ -6,6 +6,7 @@ import javax.validation.constraints.Positive;
 
 @Data
 public class RateMpa {
+
     @Positive
     private int id;
     private String name;

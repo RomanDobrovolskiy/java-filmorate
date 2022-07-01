@@ -9,6 +9,7 @@ import java.util.Set;
 @Data
 
 public class Film {
+
     @NotBlank(message = "incorrect name")
     private String name;
     private long id;
